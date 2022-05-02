@@ -7,4 +7,4 @@ I'm Vivekanand jadhav, a Software Engineer 👨‍💻 who is passionate about t
 ..............................................
 
 Technologies:
-HTML, CSS, BootStrap, Python, Django, AWS, Linux
+HTML, CSS, BOOTSTRAP, Python, Django, AWS, Linux
